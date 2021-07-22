@@ -1,0 +1,11 @@
+/* screen - server */
+
+.server {
+  background-color: transparent;
+  height: 24px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 24px;
+}
